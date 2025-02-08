@@ -38,4 +38,8 @@ I'm a university student of Computer Engineering at FES Aragón. Python, Javascr
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
+### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Github stats*** 
+[![](https://github-readme-stats.vercel.app/api?username=CarlaBl&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/CarlaBl)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=CarlaBl&theme=material-palenight)](https://github.com/CarlaBl)
+
 
