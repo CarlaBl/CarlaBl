@@ -35,11 +35,21 @@ I'm a university student of Computer Engineering at FES Aragón. Python, Javascr
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">  
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 </span>
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Github stats*** 
 [![](https://github-readme-stats.vercel.app/api?username=CarlaBl&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/CarlaBl)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=CarlaBl&theme=material-palenight)](https://github.com/CarlaBl)
 
+<h3 align="center">Connect with me:</h3>
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/carla-blacio"> 
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+  </a>
+  <a href="https://www.Instagram.com/_carlybl_"> 
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/> 
+  </a>
+</p>
 
