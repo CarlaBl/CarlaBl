@@ -6,7 +6,7 @@
 I'm a university student of Computer Engineering at FES Aragón. Python, Javascript, HTML, and CSS are the programming languages I am good at. I love to learn and build something new, innovative and creative.
 * **I am interested in Web designing, Android development, and databases.**
 - 🌱 I’m currently learning ...
-  - Flutter
+  - React
 - 👯 I'm looking forward to collaborate on new projects.
 - ✔ Ask me about anything, I am happy to help 😉<br>
 - Outside of technology, 🍥 I love watching anime, 🖌️ drawing, 🎵 listening to music, and 🌴 exploring nature outdoors.
